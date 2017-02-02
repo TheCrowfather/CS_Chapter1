@@ -10,6 +10,11 @@ namespace BurmaShave
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("You can drive a mile");
+            Console.WriteLine("A mile a minute");
+            Console.WriteLine("But there is no");
+            Console.WriteLine("Future in it");
+            Console.WriteLine("Burma Shave");
         }
     }
 }

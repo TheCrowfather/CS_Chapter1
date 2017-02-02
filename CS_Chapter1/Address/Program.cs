@@ -10,6 +10,9 @@ namespace Address
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Cyncere Burton");
+            Console.WriteLine("902 Spring Garden Street St.");
+            Console.WriteLine("Easton PA");
         }
     }
 }

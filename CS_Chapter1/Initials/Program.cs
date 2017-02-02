@@ -10,6 +10,13 @@ namespace Initials
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("    CCC    BBBBBB");
+            Console.WriteLine("   C   C   B     B");
+            Console.WriteLine("  C        B     B");
+            Console.WriteLine("  C        BBBBBB ");
+            Console.WriteLine("  C        B     B");
+            Console.WriteLine("  C    C   B     B");
+            Console.WriteLine("    CCC    BBBBBB");
         }
     }
 }
